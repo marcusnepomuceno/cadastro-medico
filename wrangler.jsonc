@@ -1,7 +1,8 @@
 {
-  "name": "medical",
+  "name": "cadastro-medico",
   "compatibility_date": "2026-06-08",
   "assets": {
-    "directory": "./dist 2"
+    "directory": "./dist 2",
+    "not_found_handling": "single-page-application"
   }
 }
